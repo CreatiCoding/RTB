@@ -1,12 +1,13 @@
 # return-to-basis
 Fundamental basis of Computer and Programming
 
-# List
-컴퓨터 구조론 
-운영체제 
-자료구조와 알고리즘 
-프로그래밍 언어론, 컴파일러 
-데이터베이스론 
+## List
+
+- 컴퓨터 구조론 
+- 운영체제
+- 자료구조와 알고리즘 
+- 프로그래밍 언어론, 컴파일러 
+- 데이터베이스론 
 
 
 출처: 
